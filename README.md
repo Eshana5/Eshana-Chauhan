@@ -1,4 +1,4 @@
-![logo](https://github.com/Eshana5/Eshana-Chauhan/blob/main/Github%20Banner.png)
+![logo](https://github.com/Eshana5/Eshana-Chauhan/blob/main/ESHANA.png)
 <h1 align="center">Hi 👋, I'm Eshana Chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"alt="coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">  
